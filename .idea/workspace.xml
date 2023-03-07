@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e401b74-0270-46a0-bb9f-b66cc4ab3534" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1-global/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buffer/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/text-new.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/path/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/app-file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/app-pipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/app-stream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/app-write.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/file4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/file4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/app2.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MfkPoy9sQzdSPTYfH8DZg5SkxL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e401b74-0270-46a0-bb9f-b66cc4ab3534" name="Changes" comment="" />
+      <created>1678166004019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678166004019</updated>
+    </task>
+    <servers />
+  </component>
+</project>
